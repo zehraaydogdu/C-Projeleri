@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.out
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tmp
+.vscode/
