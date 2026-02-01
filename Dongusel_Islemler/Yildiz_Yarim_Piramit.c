@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	int i, j, n;
-	printf("Kaca kaclik bir kare istiyorsunuz: ");
+	printf("Kaca kaclik bir yarim piramit istiyorsunuz: ");
 	scanf("%d", &n);
 	for(i=1; i<=n; i++){
 		for(j=1; j<=i; j++){
